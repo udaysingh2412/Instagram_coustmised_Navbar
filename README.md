@@ -1,3 +1,3 @@
-# instanav
+# Coustmised Instagram Navigation Bar
 
-A new Flutter project.
+practising frontend development using flutter and performed adding some animations in the Navigation Bar of the Instagram.
